@@ -125,7 +125,7 @@ BOARD_USES_GENERIC_KERNEL_IMAGE := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 TARGET_RECOVERY_PIXEL_FORMAT := RGBX_8888
 BOARD_SUPPRESS_SECURE_ERASE := true
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/first_stage_ramdisk/fstab.mt6765
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
