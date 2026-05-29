@@ -24,7 +24,7 @@ $(call inherit-product, device/tecno/BG7/device.mk)
 PRODUCT_DEVICE := BG7
 PRODUCT_NAME := twrp_BG7
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := BG7
+PRODUCT_MODEL := Tecno Spark 20C
 PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-tecno
