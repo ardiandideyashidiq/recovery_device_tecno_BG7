@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO BG7 (TECNO-BG7)
+# Android device tree for TECNO BG7 (BG7)
 
 ```
 #
