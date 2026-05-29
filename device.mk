@@ -45,12 +45,6 @@ PRODUCT_PACKAGES += \
     bootctrl.mt6765 \
     bootctrl.mt6765.recovery
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.mt6765 \
-    libgptutils \
-    libz \
-    libcutils
-
 PRODUCT_PACKAGES_DEBUG += \
     bootctrl
 
