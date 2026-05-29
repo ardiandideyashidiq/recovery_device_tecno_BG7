@@ -9,6 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_BG7.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_BG7-user \
-    twrp_BG7-userdebug \
     twrp_BG7-eng
